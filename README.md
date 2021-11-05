@@ -22,3 +22,10 @@ int main()
 3. Save/Load
     a. To/from a string by using `ConfigManager::dumps`/`ConfigManager::loads`
     b. To/from a file by using `ConfigManager::dump`/`ConfigManager::load`
+
+# Supported Types
+## It would be easy to add more. Pull requests welcome!
+- Integer
+- Float
+- String
+- Color
